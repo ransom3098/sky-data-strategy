@@ -12,7 +12,7 @@
 
 Sky UK, the largest pay-TV broadcaster in Europe, operates a complex digital ecosystem serving millions of customers across Sky Q, Sky Glass, Sky Go, and NOW TV platforms. In an industry where personalisation, speed, and multi-platform consistency are critical for customer retention, data management plays a strategic role.
 
-This report critically examines Sky's existing data infrastructure—encompassing Google Cloud's BigQuery, Adobe Experience Cloud, and a Starburst-powered data mesh—and proposes an enhanced technology stack to address gaps in real-time personalisation, system integration, and data latency.
+This report critically examines Sky's existing data infrastructure encompassing Google Cloud's BigQuery, Adobe Experience Cloud, and a Starburst powered data mesh and proposes an enhanced technology stack to address gaps in real-time personalisation, system integration, and data latency.
 
 **Key Recommendation:** Implement an integrated stack of **Apache Kafka**, **BigQuery ML**, and **Looker** to enable real-time streaming, scalable machine learning, and collaborative data workflows.
 
