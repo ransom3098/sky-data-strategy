@@ -9,6 +9,16 @@
 
 ---
 
+<div align="center">
+
+## 🌐 [**VIEW LIVE INTERACTIVE DASHBOARD →**](https://ransom3098.github.io/sky-data-strategy/)
+
+[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-Click_Here-brightgreen?style=for-the-badge)](https://ransom3098.github.io/sky-data-strategy/)
+
+</div>
+
+---
+
 ## 🎯 Project Overview
 
 This project presents a **data management strategy and technology modernisation proposal** for **Sky UK**, Europe's largest pay-TV broadcaster by revenue. The analysis addresses critical challenges in real-time analytics, cross-platform data integration, and AI-driven personalisation across Sky's streaming ecosystem (Sky Q, Sky Glass, Sky Go, NOW TV).
