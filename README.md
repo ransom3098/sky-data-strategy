@@ -377,8 +377,8 @@ sky-data-strategy/
 
 - 🎓 MSc Business Analytics | University of Birmingham
 - 💼 Business Analyst | Infosys (Novartis Account)
-- 🔗 [LinkedIn](https://linkedin.com/in/your-profile)
-- 📧 [Email](mailto:your.email@example.com)
+- 🔗 [LinkedIn](https:www.linkedin.com/in/ransom-robinsfernando)
+- 📧 [Email](mailto:ransomrobinsfernando@gmail.com)
 
 ---
 
